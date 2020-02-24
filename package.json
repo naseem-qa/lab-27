@@ -1,0 +1,34 @@
+{
+  "name": "lab-27",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naseem-qa/lab-27.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naseem-qa/lab-27/issues"
+  },
+  "homepage": "https://github.com/naseem-qa/lab-27#readme",
+  "dependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.13.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-jsonschema-form": "^1.8.1",
+    "react-router-dom": "^5.1.2",
+    "react-test-renderer": "^16.12.0"
+  }
+}
