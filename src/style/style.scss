@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/08/Background-Full-HD-Images.png);
+    background-size: 100% 110%;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(239, 255, 14);
+    font-size: 50px;
+}
+
+.counter{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 15%;
+}
+
+.clicker{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 150%;
+    padding: 2%;
+    text-align: center;
+    margin: 2%;
+    color: rgb(239, 255, 14);
+
+}
+
+.negative{
+    color: red;
+}
+
+.positive{
+    color: green;
+}
+
+.count{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    padding: 2%;
+    text-align: center; 
+    padding-left: 2%;
+    font-size: 150%;
+
+
+}
+
+footer{
+    text-align: center;
+    padding-top: 15%;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(239, 255, 14);
+
+}

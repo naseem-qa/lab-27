@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/naseem-qa/lab-27static/js/main.06bb3381.chunk.js",
+    "main.js.map": "/naseem-qa/lab-27static/js/main.06bb3381.chunk.js.map",
+    "runtime-main.js": "/naseem-qa/lab-27static/js/runtime-main.015055cd.js",
+    "runtime-main.js.map": "/naseem-qa/lab-27static/js/runtime-main.015055cd.js.map",
+    "static/js/2.b0c61cd0.chunk.js": "/naseem-qa/lab-27static/js/2.b0c61cd0.chunk.js",
+    "static/js/2.b0c61cd0.chunk.js.map": "/naseem-qa/lab-27static/js/2.b0c61cd0.chunk.js.map",
+    "index.html": "/naseem-qa/lab-27index.html",
+    "precache-manifest.1f0685eae9b588808b2825cbb183e3d6.js": "/naseem-qa/lab-27precache-manifest.1f0685eae9b588808b2825cbb183e3d6.js",
+    "service-worker.js": "/naseem-qa/lab-27service-worker.js",
+    "static/js/2.b0c61cd0.chunk.js.LICENSE.txt": "/naseem-qa/lab-27static/js/2.b0c61cd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.015055cd.js",
+    "static/js/2.b0c61cd0.chunk.js",
+    "static/js/main.06bb3381.chunk.js"
+  ]
+}
