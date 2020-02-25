@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/naseem-qa/lab-27/issues"
   },
-  "homepage": "https://nassem-qa.github.io/lab-27/",
+  "homepage": "/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
