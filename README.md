@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR]()
-* [ci/cd](https://github.com/naseem-qa/lab-27/runs/488345419?check_suite_focus=true) (GitHub Actions)
+* [ci/cd](https://github.com/naseem-qa/lab-27/actions) (GitHub Actions)
 * [front-end application](https://github.com/naseem-qa/lab-27) (when applicable)
 ### Setup
 #### How to initialize/run your application (where applicable)
