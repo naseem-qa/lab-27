@@ -6,8 +6,8 @@
 
 ### Links and Resources
 * [submission PR]()
-* [ci/cd]() (GitHub Actions)
-* [front-end application](https://401-advanced-javascript-ibrahim.github.io/lab27/) (when applicable)
+* [ci/cd](https://github.com/naseem-qa/lab-27/runs/488345419?check_suite_focus=true) (GitHub Actions)
+* [front-end application](https://github.com/naseem-qa/lab-27) (when applicable)
 ### Setup
 #### How to initialize/run your application (where applicable)
 * `npm run start` 
